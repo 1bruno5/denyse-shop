@@ -50,8 +50,4 @@ easier, smarter, and more enjoyable.
 </div>
 <p class="flex justify-center py-1 border-t border-slate-600 mt-5">D shop © 2026 . All rights reserved</p>
 </footer>
-<<<<<<< HEAD
 </template>
-=======
-</template>
->>>>>>> 6627a403ee4355cae5e813875ef814d1a8e9d861
