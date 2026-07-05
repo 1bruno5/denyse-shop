@@ -20,7 +20,7 @@
     <div class=" flex mr-20">
       <button><img src="../assets/photos/icons/search.png" alt="search" class="w-5 gap-8 mr-10"></button>
       <button><img src="../assets/photos/icons/cart.png" alt="cart" class="w-5 ml-5 mr-10"></button>
-      <button class="bg-gray-400 text-white rounded-md px-5 py-2 ml-6 flex gap-3"><img src="../assets/photos/icons/user.png" alt="user" class="w-5"><div class="text-2md">Account</div></button>
+      <button class="bg-gray-400 text-white rounded-md px-5 py-2 ml-6 flex gap-3"><img src="../assets/photos/icons/user.png" alt="user" class="w-5"><div class="text-2md"><RouterLink to="/login">Account</RouterLink></div></button>
     </div>
     
    </div>
