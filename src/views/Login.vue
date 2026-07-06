@@ -1,11 +1,11 @@
 <template>
-<div class="bg-gray-100 h-400 p-20 ">
-        <div class="  bg-white rounded-xl shadow-2xl w-140   h-110 items-center justify-center ml-95 mt-20">
-            <h1 class="font-bold text-4xl text-center mt-20">Login</h1>
-        <input type="email" placeholder="Enter your email" class="item-center border border-red-800 px-30 ml-18 py-3 rounded-md mt-20"><br>
-        <input type="password" placeholder="Enter your password" class="item-center border border-red-800 ml-18 mt-5 rounded-md px-30 py-3">
-        <button class="bg-red-600 px-47 py-3 rounded-md text-white ml-18 mt-7 text-xl hover:bg-red-700">Login</button>
-        <p class="mt-8 ml-45">Don't have an account?  <RouterLink to="/sigup" class="text-red-800">Sign UP</RouterLink></p>
+<div class="bg-gray-100 h-180 p-20 ">
+        <div class="  bg-white rounded-xl shadow-2xl w-110 pt-1  h-96  items-center justify-center ml-95">
+            <h1 class="font-bold text-2xl text-center mt-20">Login</h1>
+        <input type="email" placeholder="Enter your email" class="item-center border border-red-800 px-24 ml-9 py-2 rounded-md mt-8"><br>
+        <input type="password" placeholder="Enter your password" class="item-center border border-red-800 ml-9 mt-5 rounded-md px-24 py-2">
+        <button class="bg-red-600 px-47 py-6 rounded-md text-white ml-9 mt-7 text-xl text-center hover:bg-red-700"><p class="text-xs"></p></button>
+        <div class="text-sm"><p class="mt-4 ml-35">Don't have an account?  <RouterLink to="/sigup" class="text-red-800">Sign UP</RouterLink></p></div>
     </div>
 </div>
 </template>
