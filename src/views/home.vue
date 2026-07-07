@@ -100,7 +100,7 @@
   <div class="">
     <h1 class="text-center text-3xl text-gray-800 font-bold  ">Our best selling products</h1>
   </div>
-  <div class="grid grid-cols-4 gap-2 justify-items-center">
+  <div class="grid grid-cols-2 lg:grid-cols-4 gap-2 justify-items-center">
        <div class="bg-white shadow-2xl rounded-xl h-96  w-55 overflow-hidden ml-50 mt-15 ">
            <img src="../assets/photos/electronics/microwave.jpg"
             alt="microwave"
