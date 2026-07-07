@@ -4,10 +4,10 @@
   <div class=" relative h-[560px]">  
     <img src="../assets/photos/kitchen.jpg" alt="image" class="w-full h-full object-cover opacity-80 ">
     <div class="absolute inset-0 flex bg-black/40 ">
-      <div class=" ml-13 mt-28">
+      <div class=" ml-13 mt-10 sm:mt-16  md:mt-28">
       <p class="font-bold text-4xl text-white">Your perfect kitchen starts here with<br></p>
-        <p class="mt-6 font-bold text-4xl text-white"> quality equipment for every<br></p>
-         <p class="mt-6 font-bold text-4xl text-white"> home and business.</p>
+        <p class="mt-6 font-bold  text-2xl sm:text-3xl lg:text-4xl text-white"> quality equipment for every<br></p>
+         <p class="mt-6 font-bold text-2xl sm:text-3xl lg:text-4xl text-white"> home and business.</p>
          <button class="bg-red-700 rounded-md px-8 py-2 text-white text-xl mt-23"><RouterLink to="/products" class="text-base justify-center ml-2 mb-3">Shop Now</RouterLink></button>
       </div>
     </div>
@@ -79,19 +79,19 @@
   
     <h1 class="flex justify-center text-2xl lg:text-3xl font-bold text-gray-700 mb-10 mt-16">Why to choose D Shop ?</h1>
   
-  <div class="grid grid-cols-1 lg:grid-cols-3 gap-2 mb-8 justify-items-center px-20">
-    <div class="bg-white rounded-xl shadow-2xl   w-full max-w-[300px] mb-10 py-15 ">
+  <div class="grid grid-cols-1 lg:grid-cols-3 gap-2 mb-8 justify-items-center px-4 sm:px-8 md:px-16 lg:px-20">
+    <div class="bg-white rounded-xl shadow-2xl   w-full max-w-[350px] mb-10 py-15 ">
         <h3 class="mt-0 font-bold text-base text-center">Premium Quality</h3>
            <p class=" mt-7 justify-center text-center text-xs">Find everything from cookware and bakeware</p>
            <p class="text-center text-xs"> to appliances and kitchen accessories </p> 
             <p class="text-center text-xs"> in one place.</p>
     </div>
-    <div class="bg-white rounded-xl shadow-2xl w-full max-w-[300px] py-15  mb-10  ">
+    <div class="bg-white rounded-xl shadow-2xl w-full max-w-[350px] py-15  mb-10  ">
       <h3 class="mt-0 font-bold text-base text-center ">Secure Shopping</h3>
       <p class="text-center mt-7 text-xs">Shop with confidence using safe payment</p>
       <p class="text-center text-xs">  methods and protected checkout.</p>
     </div>
-        <div class="bg-white rounded-xl shadow-2xl w-full max-w-[300px] py-15 mb-10">
+        <div class="bg-white rounded-xl shadow-2xl w-full max-w-[350px] py-15 mb-10">
       <h3 class="mt-0 font-bold text-base text-center">Fast Delivery</h3>
       <p class="text-center mt-7 text-xs">Receive your kitchen essentials quickly with</p>
       <p class="text-center text-xs"> reliable shipping and secure packaging</p>
@@ -100,7 +100,7 @@
     </div>
   </div>
 </div>
-<div class="bg-gray-100 h-[996px] lg:h-[900px] pt-13">
+<div class="bg-gray-100 h-auto pt-13">
   <div class="">
     <h1 class="text-center text-2xl lg:text-3xl text-gray-800 font-bold  ">Our best selling products</h1>
   </div>
