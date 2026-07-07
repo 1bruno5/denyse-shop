@@ -100,7 +100,7 @@
     </div>
   </div>
 </div>
-<div class="bg-gray-100 h-[300px] lg:h-[900px] pt-13">
+<div class="bg-gray-100 h-[996px] lg:h-[900px] pt-13">
   <div class="">
     <h1 class="text-center text-2xl lg:text-3xl text-gray-800 font-bold  ">Our best selling products</h1>
   </div>
