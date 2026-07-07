@@ -16,8 +16,8 @@
 </section>
   <section>
     <h1 class="flex justify-center text-gray-700 font-bold text-3xl mt-10  w-full ">Explore our best selling <br> </h1><h1 class="flex justify-center text-gray-700 font-bold text-3xl mt-2  w-full ">collection</h1>
-<div class="grid grid-cols-1 lg:grid-cols-4 gap-x-8 mt-10  justify-items-center">
-  <div class="bg-white rounded-xl shadow-xl w-60 mb-10 overflow-hidden  h-95 ml-50">
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mt-10  justify-items-center px-20">
+  <div class="bg-white rounded-xl shadow-xl w-full  mb-10 overflow-hidden  h-[380px] ">
   <img
    src="../assets/photos/cookingPots/cookingWare.jpg" 
    alt="image"
@@ -30,41 +30,45 @@
 <button class="bg-teal-600 text-white py-2 px-6 rounded-md mt-4 hover:bg-red-800"><p class="text-xs">Buy Now</p></button>
    </div>
 </div>
-  <div class="bg-white rounded-xl shadow-xl w-60 mb-10 ml-17  relative overflow-hidden h-95">
+
+  <div class="bg-white rounded-xl shadow-xl w-full mb-10 overflow-hidden  h-[380px] ">
   <img
    src="../assets/photos/dinnerSet.jpg" 
    alt="image"
-   class="w-full h-[250px] object-cover"
+   class="w-full h-[250px] object-cover object-[30%_10%]"
    >
 
-   <div class="p-2 mt-2">
-    <h3 class="font-bold text-base">Dinner Set</h3>
-    <p class="text-sm">50 000 RW</p>
-<button class="bg-teal-600 text-white py-2 px-6 rounded-md mt-2 hover:bg-red-800"><p class="text-xs">Buy Now</p></button>
+   <div class="p-2 mt-2 ml-2">
+    <h3 class="font-bold text-base">Cooking Ware</h3>
+    <p class="text-sm">70 000 RW</p>
+<button class="bg-teal-600 text-white py-2 px-6 rounded-md mt-4 hover:bg-red-800"><p class="text-xs">Buy Now</p></button>
    </div>
 </div>
 
-<div class="bg-white shadow-xl rounded-xl w-60 h-95 mr-17  overflow-hidden mb-10">
-  <img src="../assets/photos/greenGrater.jpg" 
-  alt="cutting-board"
-  class="w-full h-[250px] object-cover object-top"
-  >
+  <div class="bg-white rounded-xl shadow-xl w-full  mb-10 overflow-hidden  h-[380px] ">
+  <img
+   src="../assets/photos/greenGrater.jpg" 
+   alt="image"
+   class="w-full h-[250px] object-cover object-[30%_10%]"
+   >
 
-   <div class="p-2 mt-4 ml-2">
-    <h3 class="font-bold text-base">Multi-function  chopper</h3>
-    <p class="text-sm">25 000 RW</p>
-<button class="bg-teal-600 text-white py-2 px-6 rounded-md mt-2 hover:bg-red-800"><p class="text-xs">Buy Now</p></button>
+   <div class="p-2 mt-2 ml-2">
+    <h3 class="font-bold text-base">Cooking Ware</h3>
+    <p class="text-sm">70 000 RW</p>
+<button class="bg-teal-600 text-white py-2 px-6 rounded-md mt-4 hover:bg-red-800"><p class="text-xs">Buy Now</p></button>
    </div>
 </div>
 
-<div class="bg-white w-60 h-95 shadow-xl rounded-xl mr-50  mb-10 px-5  overflow-hidden">
-<img src="../assets/photos/electronics/chapatiMaker.jpg"
- alt="cutting Board"
- class="w-full h-[250px] object-cover"
- >
-   <div class="p-2 mt-4 mb-4">
-    <h3 class="font-bold text-sm">Chapati Maker</h3>
-    <p class="text-xs">30 000 RW</p>
+  <div class="bg-white rounded-xl shadow-xl w-full  mb-10 overflow-hidden  h-[380px] ">
+  <img
+   src="../assets/photos/electronics/chapatiMaker.jpg" 
+   alt="image"
+   class="w-full h-[250px] object-cover object-[30%_10%]"
+   >
+
+   <div class="p-2 mt-2 ml-2">
+    <h3 class="font-bold text-base">Cooking Ware</h3>
+    <p class="text-sm">70 000 RW</p>
 <button class="bg-teal-600 text-white py-2 px-6 rounded-md mt-4 hover:bg-red-800"><p class="text-xs">Buy Now</p></button>
    </div>
 </div>
@@ -96,12 +100,12 @@
     </div>
   </div>
 </div>
-<div class="bg-gray-100 h-[1000px] pt-13">
+<div class="bg-gray-100 h-250 pt-13">
   <div class="">
     <h1 class="text-center text-3xl text-gray-800 font-bold  ">Our best selling products</h1>
   </div>
-  <div class="grid grid-cols-2 lg:grid-cols-4 gap-2 justify-items-center">
-       <div class="bg-white shadow-2xl rounded-xl h-96  w-55 overflow-hidden ml-50 mt-15 ">
+  <div class="grid grid-cols-2 lg:grid-cols-4 gap-2 justify-items-center ">
+       <div class="bg-white shadow-2xl rounded-xl   w-full max-w-[220px] overflow-hidden ml-50 mt-15 ">
            <img src="../assets/photos/electronics/microwave.jpg"
             alt="microwave"
             class="h-[260px] w-72"
