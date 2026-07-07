@@ -16,7 +16,7 @@
 </section>
   <section>
     <h1 class="flex justify-center text-gray-700 font-bold text-3xl mt-10  w-full ">Explore our best selling <br> </h1><h1 class="flex justify-center text-gray-700 font-bold text-3xl mt-2  w-full ">collection</h1>
-<div class="grid grid-cols-4 gap-x-8 mt-10  justify-items-center">
+<div class="grid grid-cols-1 lg:grid-cols-4 gap-x-8 mt-10  justify-items-center">
   <div class="bg-white rounded-xl shadow-xl w-60 mb-10 overflow-hidden  h-95 ml-50">
   <img
    src="../assets/photos/cookingPots/cookingWare.jpg" 
