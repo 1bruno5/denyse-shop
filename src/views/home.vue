@@ -105,7 +105,7 @@
     <h1 class="text-center text-2xl lg:text-3xl text-gray-800 font-bold  ">Our best selling products</h1>
   </div>
   <div class="grid grid-cols-2 lg:grid-cols-4 gap-x-2 gap-y-4 justify-items-center px-4 md:px-8 lg:px-20 mt-10">
-       <div class="bg-white shadow-2xl rounded-xl   w-full  max-w-[240px] overflow-hidden ">
+       <div class="bg-white shadow-2xl rounded-xl   w-full  max-w-[220px] overflow-hidden ">
            <img src="../assets/photos/electronics/microwave.jpg"
             alt="microwave"
             class="h-[180px] sm:h-[220px] w-full object-cover"
@@ -117,7 +117,7 @@
             </div>
        </div>
 
-              <div class="bg-white shadow-2xl rounded-xl   w-full max-w-[240px] overflow-hidden ">
+              <div class="bg-white shadow-2xl rounded-xl   w-full max-w-[220px] overflow-hidden ">
            <img src="../assets/photos/riceCooker.jpg"
             alt="microwave"
             class="h-[180px] sm:h-[220px] w-full object-cover"
@@ -129,7 +129,7 @@
             </div>
        </div>
 
-              <div class="bg-white shadow-2xl rounded-xl   w-full max-w-[240px] overflow-hidden ">
+              <div class="bg-white shadow-2xl rounded-xl   w-full max-w-[220px] overflow-hidden ">
            <img src="../assets/photos/blenders/a.jpg"
             alt="microwave"
             class="h-[180px] sm:h-[220px] w-full object-cover"
@@ -141,10 +141,10 @@
             </div>
        </div>
 
-              <div class="bg-white shadow-2xl rounded-xl   w-full max-w-[240px]  overflow-hidden ">
+              <div class="bg-white shadow-2xl rounded-xl   w-full max-w-[220px] overflow-hidden ">
            <img src="../assets/photos/cookingPots/cooksetWare.jpg"
             alt="microwave"
-            class="h-[180px] sm:h-[220px] w-full object-cover"
+            class="h-[180px] sm:h-[220px] w-full object-cover object-top"
             >
             <div class="p-3">
                 <h3 class="font-bold text-base">Cooking Pot</h3>
@@ -153,7 +153,7 @@
             </div>
        </div>
 
-              <div class="bg-white shadow-2xl rounded-xl   w-full max-w-[240px] overflow-hidden ">
+              <div class="bg-white shadow-2xl rounded-xl   w-full max-w-[220px] overflow-hidden ">
            <img src="../assets/photos/glasses/g (2).jpg"
             alt="microwave"
             class="h-[180px] sm:h-[220px] w-full object-cover"
@@ -165,7 +165,7 @@
             </div>
        </div>
 
-              <div class="bg-white shadow-2xl rounded-xl   w-full max-w-[240px] overflow-hidden ">
+              <div class="bg-white shadow-2xl rounded-xl   w-full max-w-[220px] overflow-hidden ">
            <img src="../assets/photos/jar.jpg"
             alt="microwave"
             class="h-[180px] sm:h-[220px] w-full object-cover"
@@ -177,7 +177,7 @@
             </div>
        </div>
 
-              <div class="bg-white shadow-2xl rounded-xl   w-full max-w-[240px] overflow-hidden ">
+              <div class="bg-white shadow-2xl rounded-xl   w-full max-w-[220px] overflow-hidden ">
            <img src="../assets/photos/waterDispenser.jpg"
             alt="microwave"
             class="h-[180px] sm:h-[220px] w-full object-cover"
@@ -189,7 +189,7 @@
             </div>
        </div>
 
-              <div class="bg-white shadow-2xl rounded-xl   w-full max-w-[240px] overflow-hidden ">
+              <div class="bg-white shadow-2xl rounded-xl   w-full max-w-[220px] overflow-hidden ">
            <img src="../assets/photos/range.jpg"
             alt="microwave"
             class="h-[180px] sm:h-[220px] w-full object-cover"
