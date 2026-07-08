@@ -207,11 +207,11 @@
 <div class="bg-white justify-between mb-20">
 <div class="flex justify-between">
     <img src="../assets/photos/about.jpg" alt="about image"
-  class="  mt-15 w-full max-w-[110px] lg:max-w-[340px] ml-20"
+  class="  mt-15 w-full max-w-[340px] ml-20"
   >
 <div class="ml-15">
-    <h3 class="mt-13 text-3xl font-bold mr-100 text-gray-700">Cook Smarter. Live Better.</h3>
-  <div class="mt-10 text-lg">
+    <h3 class="mt-13 text-xl md:text-2xl lg:text-3xl font-bold mr-100 text-gray-700">Cook Smarter. Live Better.</h3>
+  <div class="mt-10 text-sm lg:text-lg">
     <p >At KitchenHub, we believe every home deserves quality kitchen equipment that makes </p> <p class="mt-2"> cooking enjoyable and effortless. From premium cookware and modern appliances to everyday</p><p class="mt-2">utensils, we carefully  select products that combine durability, style, and performance.</p>
     <p class="mt-14">Whether you're a beginner or a professional chef, we're here to help you</p><p> create delicious meals with confidence.</p>
 
