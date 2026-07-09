@@ -22,8 +22,8 @@
       
     </div>
 
-        <div class=" flex justify-between  md:hidden">
-    <div class="flex">
+    <div class=" flex justify-between md:hidden">
+    <div class="flex justify-between">
       <h1 class="text-black text-xl font-bold ml-2"><img src="../assets/photos/logo.jpg" alt="logo" class="w-8"></h1>
     </div>
       <button><img src="../assets/photos/icons/search.png" alt="search" class="w-4 gap-2 "></button>
