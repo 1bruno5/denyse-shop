@@ -5,9 +5,9 @@
     <img src="../assets/photos/kitchen.jpg" alt="image" class="w-full h-full object-cover opacity-80 ">
     <div class="absolute inset-0 flex bg-black/40 ">
       <div class=" px-4 sm:px-8 lg:px-16 pt-8 sm:pt-16 lg:pt-32">
-      <p class="font-bold  text-white text-2xl sm:text-3xl lg:text-4xl">Your perfect kitchen starts here with<br></p>
-        <p class="mt-6 font-bold  text-2xl sm:text-3xl lg:text-4xl text-white"> quality equipment for every<br></p>
-         <p class="mt-6 font-bold text-2xl sm:text-3xl lg:text-4xl text-white"> home and business.</p>
+      <p class="font-bold  text-white text-xl sm:text-3xl lg:text-4xl">Your perfect kitchen starts here with<br></p>
+        <p class="mt-6 font-bold  text-xl sm:text-3xl lg:text-4xl text-white"> quality equipment for every<br></p>
+         <p class="mt-6 font-bold text-xl sm:text-3xl lg:text-4xl text-white"> home and business.</p>
          <button class="bg-red-700 rounded-md px-8 py-2 text-white text-xl mt-23"><RouterLink to="/products" class="text-base justify-center ml-2 mb-3">Shop Now</RouterLink></button>
       </div>
     </div>
@@ -210,10 +210,10 @@
   class="  w-full max-w-[220px] sm: max-w-[280px] lg:max-w-[340px] rounded-xl lg:rounded-none mx-auto lg:mx-0 object-cover"
   >
 <div class="">
-    <h3 class=" text-xl md:text-2xl lg:text-3xl font-bold text-gray-700">Cook Smarter. Live Better.</h3>
+    <h3 class=" text-xl md:text-2xl lg:text-3xl font-bold text-gray-700 text-center lg:text-left">Cook Smarter. Live Better.</h3>
   <div class="mt-10 text-sm lg:text-lg text-center md:text-left">
-    <p >At KitchenHub, we believe every home deserves quality kitchen equipment that makes </p> <p class="mt-2"> cooking enjoyable and effortless. From premium cookware and modern appliances to everyday</p><p class="mt-2">utensils, we carefully  select products that combine durability, style, and performance.</p>
-    <p class="mt-14">Whether you're a beginner or a professional chef, we're here to help you</p><p> create delicious meals with confidence.</p>
+    <p >At D Shop, we believe every home deserves quality kitchen equipment that makes </p> <p class="mt-2"> cooking enjoyable and effortless. From premium cookware and modern appliances to everyday</p><p class="mt-2">utensils, we carefully  select products that combine durability, style, and performance.</p>
+    <p class="mt-8 lg:mt-14">Whether you're a beginner or a professional chef, we're here to help you</p><p> create delicious meals with confidence.</p>
 
     <button class="bg-red-800 text-white py-3 px-8 rounded-md mt-17 hover:bg-red-700 "><RouterLink to="/about" class="text-sm">Learn More About Us</RouterLink></button>
   </div>
