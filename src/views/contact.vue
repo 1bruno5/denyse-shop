@@ -1,7 +1,3 @@
 <template>
-    <div>
-        <h1>hhhhhhhhhh</h1>
-        <p>gggggg</p>
-       
-    </div>
+    <p>hello</p>
 </template>

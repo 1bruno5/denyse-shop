@@ -1,5 +1,5 @@
 <template>
-      <nav class="bg-white p-3 shadow-xl ">
+      <nav class="bg-white p-3 shadow-xl sticky top-0 z-50 ">
    <div class="flex items-center">
     <div class="hidden md:flex">
       <h1 class="text-black text-xl font-bold ml-2 md:ml-15"><img src="../assets/photos/logo.jpg" alt="logo" class="w-8"></h1>
@@ -37,7 +37,7 @@
             <div class="flex gap-1">
               <li class="hover:text-red-700 "><RouterLink to="/products">Products </RouterLink></li>
             </div>
-            <li class="hover:text-red-700  "><RouterLink to="/categories">About</RouterLink></li>
+            <li class="hover:text-red-700  "><RouterLink to="/about">About</RouterLink></li>
             <li class="hover:text-red-700 "><RouterLink to="/contacts">Contact</RouterLink></li>
            </ul>
 </nav>

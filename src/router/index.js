@@ -3,6 +3,7 @@ import home from "../views/home.vue"
 import products from "../views/products.vue";
 import categories from "../views/categories.vue";
 import contact from "../views/contact.vue";
+import about from "../views/about.vue";
 import login from "../views/Login.vue";
 import signUp from "../views/signUp.vue";
 
@@ -24,18 +25,24 @@ const routes=[
         component:contact
     },
     {
-        path:'/contact',
-        name: contact,
-        component: contact
+        path:'/about',
+        name: about,
+        component: about
     },
 
-        {
+    {
+        path:'/',
+        name: home,
+        component: home
+    },
+
+    {
         path:'/login',
         name: login,
         component: login
     },
 
-            {
+    {
         path:'/signup',
         name: signUp,
         component: signUp
@@ -45,7 +52,10 @@ const routes=[
 
 const router = createRouter({
   history: createWebHistory(),
-  routes
+  routes,
+  scrollBehavior(to, from, savedPosition) {
+    return { top: 0 }
+  }
 })
 
 export default router
