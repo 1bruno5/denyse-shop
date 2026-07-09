@@ -1,5 +1,5 @@
 <template>
-      <nav class="bg-white p-3  ">
+      <nav class="bg-white p-3 shadow-xl ">
    <div class="flex items-center">
     <div class="hidden md:flex">
       <h1 class="text-black text-xl font-bold ml-2 md:ml-15"><img src="../assets/photos/logo.jpg" alt="logo" class="w-8"></h1>
@@ -26,7 +26,7 @@
     <div class="flex ">
       <h1 class="text-black text-xl font-bold ml-2"><img src="../assets/photos/logo.jpg" alt="logo" class="w-8"></h1>
     </div>
-      <button><img src="../assets/photos/icons/search.png" alt="search" class="w-4 gap-4 ml-60 mr-2"></button>
+      <button><img src="../assets/photos/icons/search.png" alt="search" class="w-4 gap-4 ml-60 mr-4"></button>
       <button><img src="../assets/photos/icons/cart.png" alt="cart" class="w-4 ml-2  mr-2"></button>
       
     </div>
