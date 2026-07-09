@@ -26,7 +26,7 @@
     <div class="flex ">
       <h1 class="text-black text-xl font-bold ml-2"><img src="../assets/photos/logo.jpg" alt="logo" class="w-8"></h1>
     </div>
-      <button><img src="../assets/photos/icons/search.png" alt="search" class="w-4 gap-2 ml-100"></button>
+      <button><img src="../assets/photos/icons/search.png" alt="search" class="w-4 gap-2 ml-60"></button>
       <button><img src="../assets/photos/icons/cart.png" alt="cart" class="w-4 ml-2  mr-2"></button>
       
     </div>
