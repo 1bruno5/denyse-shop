@@ -1,49 +1,94 @@
 <template>
-      <footer class="bg-gray-900 text-white py-5 ">
-<div class="flex ">
- 
-<div class="grid grid-cols-4 gap-2">
-  <div>
-    <h1 class=" text-3xl ml-5 mt-3">D shop</h1>
-    <p class="flex flex-1 mt-6 ml-5 text-sm">
-      D Shop is your trusted destination for <br>
-premium kitchen equipment, cookware, and<br>
-  appliances. We provide quality products that <br>
- make cooking  easier, smarter, and more enjoyable.
-    </p>
-  </div>
+  <footer class="bg-gray-900 text-white">
 
-  <div class="ml-50 mt-3">
-  <h2 text-2xl font-bold>Contact info</h2>
-  <ul class="mr-10 mt-10">
-   <div class="flex">
-     <li class="text-xs">+250 782 169 036<br>+250 788 839 489</li>
-   </div>
-    <li class="text-xs">Products</li>
-    <li class="text-xs">Contacts</li>
-    <li class="text-xs">About</li>
-  </ul>
-</div>
-  <div class="ml-50 mt-3">
-  <h2 text-2xl font-bold>FAQ</h2>
-  <ul class="mr-100 mt-10">
-    <li class="text-xs">Home</li>
-    <li class="text-xs">Products</li>
-    <li class="text-xs">Services</li>
-    <li class="text-xs">About</li>
-  </ul>
-</div>
-  <div class="ml-40 mt-3">
-  <h2 text-2xl font-bold>Follow Us</h2>
-  <ul class="mr-100 mt-10">
-    <li class="text-xs">X</li>
-    <li class="text-xs">In</li>
-    <li class="text-xs">Facebook</li>
-    <li class="text-xs">Instagram</li>
-  </ul>
-</div>
-</div>
-</div>
-<p class="flex justify-center py-1 border-t border-slate-600 mt-5 text-xs">D shop © 2026 . All rights reserved</p>
-</footer>
+    <div class="max-w-7xl mx-auto px-6 py-12">
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+        <div>
+          <h1 class="text-3xl font-bold mb-4">
+            D Shop
+          </h1>
+          <p class="text-gray-300 text-sm leading-7">
+            D Shop is your trusted destination for premium kitchen
+            equipment, cookware, and appliances. We provide quality
+            products that make cooking easier, smarter, and more
+            enjoyable.
+          </p>
+        </div>
+
+        <div>
+          <h2 class="text-xl font-semibold mb-4">
+            Contact Info
+          </h2>
+
+          <ul class="space-y-3 text-sm text-gray-300">
+            <li>+250 782 169 036</li>
+            <li>+250 788 839 489</li>
+            <li>info@dshop.com</li>
+            <li>Kigali, Rwanda</li>
+          </ul>
+        </div>
+
+        <div>
+          <h2 class="text-xl font-semibold mb-4">
+            Quick Links
+          </h2>
+
+          <ul class="space-y-3 text-sm text-gray-300">
+            <li>
+                <RouterLink to="/" class="hover:text-red-800">Home</RouterLink>
+            </li>
+
+            <li>
+                   <RouterLink to="/products" class="hover:text-red-800">Products</RouterLink>
+            </li>
+
+            <li>
+               <RouterLink to="/about" class="hover:text-red-800">About</RouterLink>
+            </li>
+
+            <li>
+                     <RouterLink to="/contact" class="hover:text-red-800">Contact</RouterLink>
+            </li>
+          </ul>
+        </div>
+
+        <div>
+          <h2 class="text-xl font-semibold mb-4">
+            Follow Us
+          </h2>
+
+          <ul class="space-y-3 text-sm text-gray-300">
+            <li>
+              <a href="#" class="hover:text-red-600 transition">
+                Facebook
+              </a>
+            </li>
+
+            <li>
+              <a href="#" class="hover:text-red-600 transition">
+                Instagram
+              </a>
+            </li>
+
+            <li>
+              <a href="#" class="hover:text-red-800 transition">
+                X (Twitter)
+              </a>
+            </li>
+
+            <li>
+              <a href="#" class="hover:text-red-600 transition">
+                LinkedIn
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="border-t border-gray-700 mt-10 pt-6 text-center text-sm text-gray-400">
+        © 2026 D Shop. All Rights Reserved.
+      </div>
+
+    </div>
+
+  </footer>
 </template>

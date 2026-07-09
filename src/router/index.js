@@ -19,9 +19,9 @@ const routes=[
         component: products
     },
     {
-        path:'/categories',
-        name: categories,
-        component:categories
+        path:'/contact',
+        name: contact,
+        component:contact
     },
     {
         path:'/contact',
