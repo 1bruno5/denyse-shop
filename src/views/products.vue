@@ -24,7 +24,7 @@
  </div>
 
   <div class="bg-gray-100 w-full max-w-[220px]  shadow-2xl  overflow-hidden">
-    <img src="../assets/photos/electronics/burnerInduction.jpg" alt="commercila freezer" class="w-full max-w-[220px] ">
+    <img src="../assets/photos/electronics/burnerInduction.jpg" alt="commercila freezer" class="w-full h-[220px] object-contain bg-white">
 
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
