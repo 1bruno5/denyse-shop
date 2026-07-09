@@ -1,5 +1,5 @@
 <template>
-<div class="font-sans">
+<div class="font-sans pb-16 md:pb-0">
 <section class="overflow-hidden">
   <div class=" relative h-[380px] sm:h-[460px] lg:h-[560px]">  
     <img src="../assets/photos/kitchen.jpg" alt="image" class="w-full h-full object-cover opacity-80 ">
