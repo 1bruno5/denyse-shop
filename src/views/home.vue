@@ -4,10 +4,10 @@
   <div class=" relative h-[380px] sm:h-[460px] lg:h-[560px]">  
     <img src="../assets/photos/kitchen.jpg" alt="image" class="w-full h-full object-cover opacity-80 ">
     <div class="absolute inset-0 flex bg-black/40 ">
-      <div class=" px-4 sm:px-8 lg:px-16 pt-8 sm:pt-16 lg:pt-32">
+      <div class=" px-4 sm:px-8 lg:px-16 pt-20 sm:pt-20 lg:pt-32">
       <p class="font-bold  text-white text-xl sm:text-3xl lg:text-4xl">Your perfect kitchen starts here with<br></p>
-        <p class="mt-6 font-bold  text-xl sm:text-3xl lg:text-4xl text-white"> quality equipment for every<br></p>
-         <p class="mt-6 font-bold text-xl sm:text-3xl lg:text-4xl text-white"> home and business.</p>
+        <p class="mt-2 lg:mt-6 font-bold  text-xl sm:text-3xl lg:text-4xl text-white"> quality equipment for every<br></p>
+         <p class=" mt-2 lg:mt-6 font-bold text-xl sm:text-3xl lg:text-4xl text-white"> home and business.</p>
          <button class="bg-red-700 rounded-md px-8 py-2 text-white text-xl mt-23"><RouterLink to="/products" class="text-base justify-center ml-2 mb-3">Shop Now</RouterLink></button>
       </div>
     </div>
