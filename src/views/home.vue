@@ -100,7 +100,7 @@
     </div>
   </div>
 </div>
-<div class="bg-gray-100 h-auto pt-13">
+<div class="bg-gray-100 h-auto pt-13 pb-8">
   <div class="">
     <h1 class="text-center text-2xl lg:text-3xl text-gray-800 font-bold  ">Our best selling products</h1>
   </div>
@@ -205,17 +205,17 @@
 </div>
 
 <div class="bg-white mb-20 px-4 sm:px8 lg:px-16 pt-10 sm:pt-16 lg:pt-20">
-<div class="flex flex-col lg:flex-row gap-8 lg:gap-16 ">
+<div class="flex flex-col lg:flex-row gap-16 lg:gap-16 ">
     <img src="../assets/photos/about.jpg" alt="about image"
   class="  w-full max-w-[220px] sm: max-w-[280px] lg:max-w-[340px] rounded-xl lg:rounded-none mx-auto lg:mx-0 object-cover"
   >
 <div class="">
     <h3 class=" text-xl md:text-2xl lg:text-3xl font-bold text-gray-700">Cook Smarter. Live Better.</h3>
-  <div class="mt-10 text-sm lg:text-lg">
+  <div class="mt-10 text-sm lg:text-lg text-center md:text-left">
     <p >At KitchenHub, we believe every home deserves quality kitchen equipment that makes </p> <p class="mt-2"> cooking enjoyable and effortless. From premium cookware and modern appliances to everyday</p><p class="mt-2">utensils, we carefully  select products that combine durability, style, and performance.</p>
     <p class="mt-14">Whether you're a beginner or a professional chef, we're here to help you</p><p> create delicious meals with confidence.</p>
 
-    <button class="bg-red-800 text-white py-3 px-8 rounded-md mt-17 hover:bg-red-700"><RouterLink to="/about" class="text-sm">Learn More About Us</RouterLink></button>
+    <button class="bg-red-800 text-white py-3 px-8 rounded-md mt-17 hover:bg-red-700 "><RouterLink to="/about" class="text-sm">Learn More About Us</RouterLink></button>
   </div>
 </div>
 </div>
