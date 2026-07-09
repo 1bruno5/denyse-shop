@@ -204,10 +204,10 @@
   </div>
 </div>
 
-<div class="bg-white mb-20 px-4 sm:px-8 lg:px-16 pt-10 sm:pt-16 lg:pt-20">
+<div class="bg-white mb-10 px-4 sm:px-8 lg:px-16 pt-10 sm:pt-16 lg:pt-16">
 <div class="flex flex-col lg:flex-row gap-16 lg:gap-16 ">
     <img src="../assets/photos/about.jpg" alt="about image"
-  class="  w-full max-w-[220px] sm:max-w-[280px] lg:max-w-[340px] h-80 lg:h-110   lg: -none mx-auto lg:mx-0 object-cover"
+  class="  w-full max-w-[280px] sm:max-w-[280px] lg:max-w-[340px]    lg: -none mx-auto lg:mx-0 object-cover h-[160px] sm:h-[200px] lg:h-[460px]"
   >
 <div class="">
     <h3 class=" text-xl md:text-2xl lg:text-3xl font-bold text-gray-700 text-center md:text-left">Cook Smarter. Live Better.</h3>
