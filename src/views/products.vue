@@ -89,7 +89,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base"><p class="text-xs lg:text-base">ADD TO CART</p></p></button>
  </div>
  </div>
 
@@ -99,7 +99,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -109,7 +109,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -119,7 +119,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -129,7 +129,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -139,7 +139,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -149,7 +149,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -159,7 +159,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -169,7 +169,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -179,7 +179,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -189,7 +189,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -199,7 +199,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -209,7 +209,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -219,7 +219,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -229,7 +229,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -239,7 +239,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -249,7 +249,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -259,7 +259,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -269,7 +269,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -279,7 +279,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -289,7 +289,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -299,7 +299,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -309,7 +309,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -319,7 +319,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -329,7 +329,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -339,7 +339,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -349,7 +349,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -359,7 +359,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -369,7 +369,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -379,7 +379,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -389,7 +389,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -399,7 +399,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -409,7 +409,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -419,7 +419,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -429,7 +429,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -439,7 +439,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -449,7 +449,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -459,7 +459,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -469,7 +469,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -479,7 +479,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -489,7 +489,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
@@ -499,7 +499,7 @@
      <div class="p-4 space-y-3">
    <h3 class="font-bold text-gray-800">Commercial Freezer</h3>
    <p>450 000 RWF</p>
-   <button class="bg-teal-700 px-10 py-2 text-white ">ADD TO CART</button>
+   <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
  </div>
  </div>
 
