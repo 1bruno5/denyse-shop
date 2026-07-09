@@ -1,10 +1,10 @@
 <template>
 <div class="font-sans">
 <section class="overflow-hidden">
-  <div class=" relative h-[560px]">  
+  <div class=" relative h-[380px] sm:h-[460px] lg:h-[560px]">  
     <img src="../assets/photos/kitchen.jpg" alt="image" class="w-full h-full object-cover opacity-80 ">
     <div class="absolute inset-0 flex bg-black/40 ">
-      <div class=" ml-13 mt-10 sm:mt-16  md:mt-28">
+      <div class=" px-4 sm:px-8 lg:px-16 pt-8 sm:pt-16 lg:pt-32">
       <p class="font-bold  text-white text-2xl sm:text-3xl lg:text-4xl">Your perfect kitchen starts here with<br></p>
         <p class="mt-6 font-bold  text-2xl sm:text-3xl lg:text-4xl text-white"> quality equipment for every<br></p>
          <p class="mt-6 font-bold text-2xl sm:text-3xl lg:text-4xl text-white"> home and business.</p>
@@ -204,12 +204,12 @@
   </div>
 </div>
 
-<div class="bg-white justify-between mb-20">
-<div class="flex flex-col lg:flex-row gap-8 lg:gap-16">
+<div class="bg-white mb-20 px-4 sm:px8 lg:px-16 pt-10 sm:pt-16 lg:pt-20">
+<div class="flex flex-col lg:flex-row gap-8 lg:gap-16 ">
     <img src="../assets/photos/about.jpg" alt="about image"
-  class="  mt-15 w-full max-w-[300px] lg:max-w-[340px] rounded-xl lg:rounded-none mx-auto lg:mx-7 my-auto lg:my-6"
+  class="  w-full max-w-[220px] sm: max-w-[280px] lg:max-w-[340px] rounded-xl lg:rounded-none mx-auto lg:mx-0 object-cover"
   >
-<div class="my-12">
+<div class="">
     <h3 class=" text-xl md:text-2xl lg:text-3xl font-bold text-gray-700">Cook Smarter. Live Better.</h3>
   <div class="mt-10 text-sm lg:text-lg">
     <p >At KitchenHub, we believe every home deserves quality kitchen equipment that makes </p> <p class="mt-2"> cooking enjoyable and effortless. From premium cookware and modern appliances to everyday</p><p class="mt-2">utensils, we carefully  select products that combine durability, style, and performance.</p>
