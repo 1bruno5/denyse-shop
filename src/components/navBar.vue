@@ -1,7 +1,7 @@
 <template>
       <nav class="bg-white p-3  ">
    <div class="flex items-center">
-    <div class="flex">
+    <div class="hidden md:flex">
       <h1 class="text-black text-xl font-bold ml-2 md:ml-15"><img src="../assets/photos/logo.jpg" alt="logo" class="w-8"></h1>
     </div>
 
