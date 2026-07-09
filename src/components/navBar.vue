@@ -2,7 +2,7 @@
       <nav class="bg-white p-3">
    <div class="flex items-center">
     <div class="flex">
-      <h1 class="text-black text-xl font-bold ml-5 md:ml-15"><img src="../assets/photos/logo.jpg" alt="logo" class="w-8"></h1>
+      <h1 class="text-black text-xl font-bold ml-2 md:ml-15"><img src="../assets/photos/logo.jpg" alt="logo" class="w-8"></h1>
     </div>
 
     <div class="text-black hidden md:flex flex-3 justify-center font-semibold text-xs gap-15">
@@ -21,7 +21,7 @@
       <button class="bg-gray-400 text-white rounded-md px-4 py-1 ml-6 flex gap-3"><img src="../assets/photos/icons/user.png" alt="user" class="w-4 h-5"><div class="text-2md"><RouterLink to="/login" class="text-xs mb-4"><div class="justify-center">Account</div></RouterLink></div></button>
     </div>
 
-        <div class=" flex justify-end  md:hidden ml-22">
+        <div class=" flex justify-end  md:hidden ml-26">
       <button><img src="../assets/photos/icons/search.png" alt="search" class="w-4 gap-2 "></button>
       <button><img src="../assets/photos/icons/cart.png" alt="cart" class="w-4 ml-4  mr-2"></button>
       <button class="bg-gray-400 text-white rounded-md px-4 py-1 ml-6 flex"><img src="../assets/photos/icons/user.png" alt="user" class="w-4 h-5"><div class="text-2md"><RouterLink to="/login" class="text-xs mb-4"><div class="justify-center">Account</div></RouterLink></div></button>
