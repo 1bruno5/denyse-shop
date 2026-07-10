@@ -13,7 +13,7 @@
             </div>
              <li class="hover:text-red-700 ml-8 "><RouterLink to="/categories">Categories</RouterLink></li>
             <li class="hover:text-red-700 ml-8 "><RouterLink to="/about">About</RouterLink></li>
-            <li class="hover:text-red-700 ml-8"><RouterLink to="/contacts">Contact</RouterLink></li>
+            <li class="hover:text-red-700 ml-8"><RouterLink to="/contact">Contact</RouterLink></li>
            </ul>
     </div>
     <div class=" hidden md:flex mr-10">

@@ -4,8 +4,7 @@ import products from "../views/products.vue";
 import categories from "../views/categories.vue";
 import contact from "../views/contact.vue";
 import about from "../views/about.vue";
-import login from "../views/Login.vue";
-import signUp from "../views/signUp.vue";
+import cart from "../views/cart.vue";
 
 
 const routes=[
@@ -29,24 +28,12 @@ const routes=[
         name: about,
         component: about
     },
-
-    {
-        path:'/',
-        name: home,
-        component: home
+        {
+        path:'/cart',
+        name: cart,
+        component: cart
     },
 
-    {
-        path:'/login',
-        name: login,
-        component: login
-    },
-
-    {
-        path:'/signup',
-        name: signUp,
-        component: signUp
-    },
 
 ]
 
