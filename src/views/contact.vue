@@ -10,13 +10,13 @@
                         <h3 class="">Send us a message</h3>
                         <p class="text-gray-600">Fill out the form below and we'll get back to you<br> within 24 hours.</p>
                         <p>Full Name</p>
-                        <input type="text" placeholder="name" class="py-2 px-40  bg-gray-200" required>
+                        <input type="text" placeholder="name" class="py-2 w-full max-w-[500px]  bg-gray-200" required>
                         <p class="mt-2 md:mt-8">Email Address</p>
-                        <input type="text" placeholder="@example.com" class="py-2 px-40  bg-gray-200" required>
+                        <input type="text" placeholder="@example.com" class="py-2 w-full max-w-[500px]   bg-gray-200" required>
                         <p class="mt-2 md:mt-8">Phone Number</p>
-                        <input type="number" placeholder="+250 700 000 000" class="py-2 px-40  bg-gray-200" required>
+                        <input type="number" placeholder="+250 700 000 000" class="py-2 w-full max-w-[500px]  bg-gray-200" required>
                         <p class="mt-2 md:mt-8">Message</p>
-                        <input type="text" placeholder="Tell us how we can help you" class="py-8 md:py-16 px-40  bg-gray-200" required>
+                        <input type="text" placeholder="" class="py-8 md:py-16 w-full max-w-[500px]  bg-gray-200" required>
                  </div>
          </form>
 
