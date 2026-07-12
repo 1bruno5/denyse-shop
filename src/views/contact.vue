@@ -4,7 +4,7 @@
          <h1 class="text-white font-bold text-2xl md:text-3xl lg:text-5xl ml-4 md:ml-8 lg:ml-12 pt-8 md:pt-8 lg:pt-12">Contact Us</h1>
          <p class="text-white text-sm md:text-base lg:text-xl ml-4 md:ml-8 lg:ml-12 pt-2 md:pt-6">Have questions about our D Shop? We're here to help you find the perfect <br> tools for your culinary needs.</p>
     </div>
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-1 px-2 md:px-30 ml-1 md:ml-8">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-1 px-2 md:px-30 ml-6 md:ml-8">
       <div class="bg-white shadow-xl w-full max-w-[300px] mt-10 md:mt-18 mb-8 md:mb-12 rounded-lg h-[200px] flex flex-col items-center space-y-6 pt-4 md:pt-8">
         <img src="../assets/photos/icons/map.png" alt="map" class="w-8">
             <div class="text-center">
@@ -33,20 +33,20 @@
     <div class="flex flex-col md:flex-row">
             <div class="w-full max-w-[600px] ">
               <form class="bg-white rounded-xl shadow-xl mx-3 pt-6 md:pt-12 ">
-                <div class="px-10 mb-4 md:mb-8 space-y-2">
+                <div class="px-4 md:px-10 mb-4 md:mb-8 space-y-2">
                  <h1 class="font-bold text-lg md:text-3xl">Send Us a Message</h1>
                  <p class="text-gray-600">Fill out the form and we'll get back to you within 24 hours.</p>
                 </div>
                 <div class="flex flex-col items-center space-y-2">
                    <div class="flex gap-8">
-                   <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[800px] h-[40px] px-6 ">
-                   <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[800px] h-[40px] px-6">
+                   <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[800px] h-[40px] px-1 md:px-6 ">
+                   <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[800px] h-[40px] px-1 md:px-6">
                    </div>
                    <br>
-                 <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[500px] h-[40px] p-4"><br>
-                 <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[500px] h-[40px] p-4"><br>
-                 <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[500px] h-[40px] p-4"><br>
-                 <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[500px] h-[120px] p-4 "><br>
+                 <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[380px] md:max-w-[500px] h-[40px] p-4"><br>
+                 <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[380px] md:max-w-[500px] h-[40px] p-4"><br>
+                 <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[380px] md:max-w-[500px] h-[40px] p-4"><br>
+                 <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[380px] md:max-w-[500px] h-[120px] p-4 "><br>
                 </div>
               </form>
             </div>
