@@ -13,7 +13,7 @@
               <p class="text-gray-600">Kigali, Rwanda</p>
             </div>
       </div>
-            <div class="bg-white shadow-xl w-full max-w-[300px] mt-10 md:mt-18 mb-8 md:mb-12 rounded-lg h-[200px] flex flex-col items-center space-y-6 pt-4 md:pt-8">
+            <div class="bg-white shadow-xl w-full max-w-[300px] mt-0 md:mt-18 mb-8 md:mb-12 rounded-lg h-[200px] flex flex-col items-center space-y-6 pt-4 md:pt-8">
         <img src="../assets/photos/icons/phone.png" alt="map" class="w-8">
                 <div class="text-center">
                   <h1 class="font-bold ">Call Us</h1>
@@ -21,7 +21,7 @@
                   <p class="text-gray-600">+250 788 839 489</p>
                 </div>
       </div>
-            <div class="bg-white shadow-xl w-full max-w-[300px] mt-10 md:mt-18 mb-8 md:mb-12 rounded-lg h-[200px] flex flex-col items-center space-y-6 pt-4 md:pt-8">
+            <div class="bg-white shadow-xl w-full max-w-[300px] mt-0 md:mt-18 mb-8 md:mb-12 rounded-lg h-[200px] flex flex-col items-center space-y-6 pt-4 md:pt-8">
         <img src="../assets/photos/icons/mail.png" alt="map" class="w-8">
               <div class="text-center ">
                 <h1 class="font-bold">Email Us</h1>
@@ -50,9 +50,9 @@
                 </div>
               </form>
             </div>
-            <div class="w-full max-w-[260px] md:max-w-[600px] flex flex-col gap-40">
+            <div class="w-full max-w-[400px] md:max-w-[600px] flex flex-col gap-16 md:gap-40 items-center">
               <div class="bg-gray-100 shadow-md w-full  h-[280px] rounded-xl ">
-                <div class="flex flex-col items-center justify-center gap-6 md:gap-8 mt-6 md:mt-16">
+                <div class="flex flex-col items-center justify-center gap-6 md:gap-8 mt-10 md:mt-16">
                   <img src="../assets/photos/icons/google-maps.png" alt="map" class="w-8">
                   <div class="text-center">
                    <h1>D Shop Kigali</h1>
@@ -62,7 +62,7 @@
                 </div>
             </div>
             <div class="bg-teal-900 w-full h-[180px] rounded-xl text-white">
-              <div class="px-4 md:px-6 py-4 md:py-8">
+              <div class="px-4 md:px-6 py-8 md:py-8">
                <h1 class="text-base font-bold">Follow Us</h1>
                <p>Stay updated with new arrivals, deals, and automotive news.</p>
                <div class="flex gap-6 mt-4 md:mt-10">
