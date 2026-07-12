@@ -50,7 +50,7 @@
                 </div>
               </form>
             </div>
-            <div class="w-full max-w-[380px] md:max-w-[600px] flex flex-col gap-16 md:gap-40 items-center">
+            <div class="w-full max-w-[340px] md:max-w-[600px] flex flex-col gap-16 md:gap-40 items-center">
               <div class="bg-gray-100 shadow-md w-full  h-[280px] rounded-xl ">
                 <div class="flex flex-col items-center justify-center gap-6 md:gap-8 mt-10 md:mt-16">
                   <img src="../assets/photos/icons/google-maps.png" alt="map" class="w-8">
@@ -61,7 +61,7 @@
                   </div>
                 </div>
             </div>
-            <div class="bg-teal-900 w-full h-[180px] rounded-xl text-white">
+            <div class="bg-teal-900 w-full h-[180px] rounded-xl text-white mb-8 md:mb-0">
               <div class="px-4 md:px-6 py-8 md:py-8">
                <h1 class="text-base font-bold">Follow Us</h1>
                <p>Stay updated with new arrivals, deals, and automotive news.</p>
