@@ -80,18 +80,18 @@
     <h1 class="flex justify-center text-2xl lg:text-3xl font-bold text-gray-700 mb-10 mt-16">Why to choose D Shop ?</h1>
   
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-1 mb-8 justify-items-center px-4 sm:px-8 md:px-16 lg:px-20">
-    <div class="bg-white  -xl shadow-2xl   w-full max-w-[330px] mb-0 md:mb-10 py-15 ">
+    <div class="bg-white  -xl shadow-2xl   w-full max-w-[330px] mb-4 md:mb-10 py-15 ">
         <h3 class="mt-0 font-bold text-base text-center">Premium Quality</h3>
            <p class=" mt-7 justify-center text-center text-xs">Find everything from cookware and bakeware</p>
            <p class="text-center text-xs"> to appliances and kitchen accessories </p> 
             <p class="text-center text-xs"> in one place.</p>
     </div>
-    <div class="bg-white  -xl shadow-2xl w-full max-w-[330px] py-15 mb-0  md:mb-10  ">
+    <div class="bg-white  -xl shadow-2xl w-full max-w-[330px] py-15 mb-4  md:mb-10  ">
       <h3 class="mt-0 font-bold text-base text-center ">Secure Shopping</h3>
       <p class="text-center mt-7 text-xs">Shop with confidence using safe payment</p>
       <p class="text-center text-xs">  methods and protected checkout.</p>
     </div>
-        <div class="bg-white  -xl shadow-2xl w-full max-w-[330px] py-15 mb-0 md:mb-10">
+        <div class="bg-white  -xl shadow-2xl w-full max-w-[330px] py-15 mb-4 md:mb-10">
       <h3 class="mt-0 font-bold text-base text-center">Fast Delivery</h3>
       <p class="text-center mt-7 text-xs">Receive your kitchen essentials quickly with</p>
       <p class="text-center text-xs"> reliable shipping and secure packaging</p>
