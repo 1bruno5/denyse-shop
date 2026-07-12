@@ -50,7 +50,7 @@
                 </div>
               </form>
             </div>
-            <div class="w-full max-w-[400px] md:max-w-[600px] flex flex-col gap-16 md:gap-40 items-center">
+            <div class="w-full max-w-[380px] md:max-w-[600px] flex flex-col gap-16 md:gap-40 items-center">
               <div class="bg-gray-100 shadow-md w-full  h-[280px] rounded-xl ">
                 <div class="flex flex-col items-center justify-center gap-6 md:gap-8 mt-10 md:mt-16">
                   <img src="../assets/photos/icons/google-maps.png" alt="map" class="w-8">
