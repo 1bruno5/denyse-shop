@@ -38,15 +38,15 @@
                  <p class="text-gray-600">Fill out the form and we'll get back to you within 24 hours.</p>
                 </div>
                 <div class="flex flex-col items-center space-y-2">
-                   <div class="flex sm:flex-row gap-3 sm:gap-3">
-                   <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[120px] max-w-[400px] h-[40px] px-1 md:px-6 "><br>
-                   <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[120px] max-w-[400px] h-[40px] px-1 md:px-6">
+                   <div class="flex flex-col sm:flex-row gap-3 sm:gap-3">
+                   <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[280px] max-w-[400px] h-[40px] px-1 md:px-6 "><br>
+                   <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[280px] max-w-[400px] h-[40px] px-1 md:px-6">
                    </div>
                    <br>
-                 <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[300px] md:max-w-[500px] h-[40px] p-4"><br>
-                 <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[300px] md:max-w-[500px] h-[40px] p-4"><br>
-                 <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[300px] md:max-w-[500px] h-[40px] p-4"><br>
-                 <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[300px] md:max-w-[500px] h-[120px] p-4 "><br>
+                 <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[280px] md:max-w-[500px] h-[40px] p-4"><br>
+                 <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[280px] md:max-w-[500px] h-[40px] p-4"><br>
+                 <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[280px] md:max-w-[500px] h-[40px] p-4"><br>
+                 <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[280px] md:max-w-[500px] h-[120px] p-4 "><br>
                 </div>
               </form>
             </div>
