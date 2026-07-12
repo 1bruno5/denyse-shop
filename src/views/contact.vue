@@ -37,15 +37,15 @@
                  <h1 class="font-bold text-lg md:text-3xl">Send Us a Message</h1>
                  <p class="text-gray-600">Fill out the form and we'll get back to you within 24 hours.</p>
                 </div>
-                <div class="flex flex-col items-center space-y-2 w-full">
-                   <div class="flex flex-col sm:flex-row gap-0 sm:gap-3">
-                   <input type="text" placeholder="Enter your first name" class="border-2 border-gray-200 rounded-xl w-full max-w-[280px] md:max-w-[500px] h-[50px] focus:border-teal-500 focus:outline-none  px-1 md:px-6 "><br>
-                   <input type="text" placeholder="Enter your last name" class="border-2 border-gray-200 rounded-xl w-full max-w-[280px] md:max-w-[500px] h-[50px] focus:border-teal-500 focus:outline-none  px-1 md:px-6">
+                <div class="flex flex-col items-center space-y-2 px-4 md:px-10">
+                   <div class="flex flex-col sm:flex-row gap-0 sm:gap-3 w-full max-w-[280px] md:max-w-none ">
+                   <input type="text" placeholder="Enter your first name" class="border-2 border-gray-200 rounded-xl w-full max-w-[240px] md:max-w-[500px] h-[50px] focus:border-teal-500 focus:outline-none  px-1 md:px-6 "><br>
+                   <input type="text" placeholder="Enter your last name" class="border-2 border-gray-200 rounded-xl w-full max-w-[240px] md:max-w-[500px] h-[50px] focus:border-teal-500 focus:outline-none  px-1 md:px-6">
                    </div>
                    <br>
-                 <input type="text" placeholder="Enter your email" class="border-2 border-gray-200 rounded-xl w-full max-w-[280px] md:max-w-[500px] h-[50px]  p-4 focus:border-teal-500 focus:outline-none" required><br>
-                 <input type="text" placeholder="Enter your phone number" class="border-2 border-gray-200 rounded-xl w-full max-w-[280px] md:max-w-[500px] h-[50px]  p-4 focus:border-teal-500 focus:outline-none"><br>
-                 <textarea name="text area" id="" placeholder="Tell us how can we help you" class="border-2 border-gray-200 w-full max-w-[280px] md:max-w-[500px] rounded-xl w-full p-8 resize-none focus:border-teal-500 focus:outline-none"></textarea><br>
+                 <input type="email" placeholder="Enter your email" class="border-2 border-gray-200 rounded-xl w-full max-w-[280px] md:max-w-[500px] h-[50px]  p-4 focus:border-teal-500 focus:outline-none" required><br>
+                 <input type="tel" placeholder="Enter your phone number" class="border-2 border-gray-200 rounded-xl w-full max-w-[280px] md:max-w-[500px] h-[50px]  p-4 focus:border-teal-500 focus:outline-none"><br>
+                 <textarea name="text area" id="" placeholder="Tell us how can we help you" rows="3" class="border-2 border-gray-200 w-full max-w-[280px] md:max-w-[500px] rounded-xl w-full p-8 resize-none focus:border-teal-500 focus:outline-none"></textarea><br>
                  <button class="bg-teal-700 rounded-xl w-full max-w-[280px] md:max-w-[500px] h-[50px] text-white text-sm md:text-base font-bold mb-12 md:mb-20">Send  Message</button>
                 </div>
               </form>
