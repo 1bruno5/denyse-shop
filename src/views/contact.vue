@@ -1,31 +1,55 @@
 <template>
-<div class="font-sans">
+<div class="font-sans bg-gray-50">
         <div class="bg-teal-800 h-[220px] md:h-[260px]">
-         <h1 class="text-white font-bold text-2xl md:text-3xl lg:text-5xl ml-4 md:ml-8 lg:ml-12 pt-4 md:pt-4 lg:pt-12">Contact Us</h1>
+         <h1 class="text-white font-bold text-2xl md:text-3xl lg:text-5xl ml-4 md:ml-8 lg:ml-12 pt-8 md:pt-8 lg:pt-12">Contact Us</h1>
          <p class="text-white text-sm md:text-base lg:text-xl ml-4 md:ml-8 lg:ml-12 pt-2 md:pt-6">Have questions about our D Shop? We're here to help you find the perfect <br> tools for your culinary needs.</p>
     </div>
-    <div class="flex flex-col lg:flex-row bg-gray-100 gap-18">
-         <form class="bg-white border border-gray-200 w-full max-w-[580px] ml-2 md:ml-4  mt-4 md:mt-8 mb-4 md:mb-8 pb-4 md:pb-12 pt-4 md:pt-8">
-                 <div class="ml-1 md:ml-10 space-y-1">
-                        <h3 class="">Send us a message</h3>
-                        <p class="text-gray-600">Fill out the form below and we'll get back to you<br> within 24 hours.</p>
-                        <p>Full Name</p>
-                        <input type="text" placeholder="name" class="py-2 w-full max-w-[500px]  bg-gray-200" required>
-                        <p class="mt-2 md:mt-8">Email Address</p>
-                        <input type="text" placeholder="@example.com" class="py-2 w-full max-w-[500px]   bg-gray-200" required>
-                        <p class="mt-2 md:mt-8">Phone Number</p>
-                        <input type="number" placeholder="+250 700 000 000" class="py-2 w-full max-w-[500px]  bg-gray-200" required>
-                        <p class="mt-2 md:mt-8">Message</p>
-                        <input type="text" placeholder="" class="py-8 md:py-16 w-full max-w-[500px]  bg-gray-200" required>
-                 </div>
-         </form>
-
-         <div class="bg-white w-full max-w-[580px]  mt-4 md:mt-8 mb-4 md:mb-8 pb-4 md:pb-12 pt-4 md:pt-8">
-           <div class="ml-2 md:ml-6">
-             <h3 class="">D Shop - Kitchen Equipments</h3>
-             <p class="text-gray-600 mt-2">Your trusted source for professional and home<br> kitchen equipment</p>
-           </div>
-         </div>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-1 px-2 md:px-30 ml-1 md:ml-8">
+      <div class="bg-white shadow-xl w-full max-w-[300px] mt-10 md:mt-18 mb-8 md:mb-12 rounded-lg h-[200px] flex flex-col items-center space-y-6 pt-4 md:pt-8">
+        <img src="../assets/photos/icons/map.png" alt="map" class="w-8">
+            <div class="text-center">
+              <h1 class="font-bold  ">Visit Us</h1>
+              <p class="text-gray-600"> KN 4 Ave, Nyarungenge</p>
+              <p class="text-gray-600">Kigali, Rwanda</p>
+            </div>
+      </div>
+            <div class="bg-white shadow-xl w-full max-w-[300px] mt-10 md:mt-18 mb-8 md:mb-12 rounded-lg h-[200px] flex flex-col items-center space-y-6 pt-4 md:pt-8">
+        <img src="../assets/photos/icons/phone.png" alt="map" class="w-8">
+                <div class="text-center">
+                  <h1 class="font-bold ">Call Us</h1>
+                  <p class="text-gray-600">+250 782 169 036</p>
+                  <p class="text-gray-600">+250 788 839 489</p>
+                </div>
+      </div>
+            <div class="bg-white shadow-xl w-full max-w-[300px] mt-10 md:mt-18 mb-8 md:mb-12 rounded-lg h-[200px] flex flex-col items-center space-y-6 pt-4 md:pt-8">
+        <img src="../assets/photos/icons/mail.png" alt="map" class="w-8">
+              <div class="text-center ">
+                <h1 class="font-bold">Email Us</h1>
+                <p class="text-gray-600"> KN 4 Ave, Nyarungenge</p>
+                <p class="text-gray-600">Kigali, Rwanda</p>
+              </div>
+      </div>
+    </div>
+    <div class="flex flex-col md:flex-row">
+            <div class="w-full max-w-[600px] ">
+              <form class="bg-white rounded-xl shadow-xl mx-3 pt-6 md:pt-12 ">
+                <div class="px-10 mb-4 md:mb-8 space-y-2">
+                 <h1 class="font-bold text-lg md:text-3xl">Send Us a Message</h1>
+                 <p class="text-gray-600">Fill out the form and we'll get back to you within 24 hours.</p>
+                </div>
+                <div class="flex flex-col items-center space-y-2">
+                   <div class="flex gap-8">
+                   <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[800px] h-[40px] px-6 ">
+                   <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[800px] h-[40px] px-6">
+                   </div>
+                   <br>
+                 <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[500px] h-[40px] p-4"><br>
+                 <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[500px] h-[40px] p-4"><br>
+                 <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[500px] h-[40px] p-4"><br>
+                 <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[500px] h-[120px] p-4 "><br>
+                </div>
+              </form>
+            </div>
     </div>
 </div>
 </template>
