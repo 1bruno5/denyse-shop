@@ -38,9 +38,9 @@
                  <p class="text-gray-600">Fill out the form and we'll get back to you within 24 hours.</p>
                 </div>
                 <div class="flex flex-col items-center space-y-2 px-4 md:px-10">
-                   <div class="flex flex-col sm:flex-row gap-0 sm:gap-3 w-full max-w-[280px] md:max-w-none ">
-                   <input type="text" placeholder="Enter your first name" class="border-2 border-gray-200 rounded-xl w-full max-w-[240px] md:max-w-[500px] h-[50px] focus:border-teal-500 focus:outline-none  px-1 md:px-6 "><br>
-                   <input type="text" placeholder="Enter your last name" class="border-2 border-gray-200 rounded-xl w-full max-w-[240px] md:max-w-[500px] h-[50px] focus:border-teal-500 focus:outline-none  px-1 md:px-6">
+                   <div class="flex flex-col sm:flex-row gap-0 sm:gap-3 w-full max-w-[320px] md:max-w-none ">
+                   <input type="text" placeholder="Enter your first name" class="border-2 border-gray-200 rounded-xl w-full max-w-[280px] md:max-w-[500px] h-[50px] focus:border-teal-500 focus:outline-none  px-1 md:px-6 "><br>
+                   <input type="text" placeholder="Enter your last name" class="border-2 border-gray-200 rounded-xl w-full max-w-[280px] md:max-w-[500px] h-[50px] focus:border-teal-500 focus:outline-none  px-1 md:px-6">
                    </div>
                    <br>
                  <input type="email" placeholder="Enter your email" class="border-2 border-gray-200 rounded-xl w-full max-w-[280px] md:max-w-[500px] h-[50px]  p-4 focus:border-teal-500 focus:outline-none" required><br>
