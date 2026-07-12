@@ -39,8 +39,8 @@
                 </div>
                 <div class="flex flex-col items-center space-y-2">
                    <div class="flex gap-8">
-                   <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[800px] h-[40px] px-1 md:px-6 ">
-                   <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[800px] h-[40px] px-1 md:px-6">
+                   <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg   h-[40px] px-1 md:px-6 ">
+                   <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg   h-[40px] px-1 md:px-6">
                    </div>
                    <br>
                  <input type="text" placeholder="Enter your first name" class="border border-gray-600 rounded-lg w-full max-w-[380px] md:max-w-[500px] h-[40px] p-4"><br>
