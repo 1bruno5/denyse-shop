@@ -9,7 +9,7 @@
         <img src="../assets/photos/icons/map.png" alt="map" class="w-8">
             <div class="text-center">
               <h1 class="font-bold  ">Visit Us</h1>
-              <p class="text-gray-600"> 8 KN 4 AVE, Kigali, Rwanda</p>
+              <p class="text-gray-600"> KN 72 St, Kigali, Rwanda</p>
               <p class="text-gray-600">Kigali, Rwanda</p>
             </div>
       </div>
@@ -50,13 +50,13 @@
                 </div>
               </form>
             </div>
-            <div class="w-full max-w-[320px] md:max-w-[600px] flex flex-col gap-16 md:gap-40 items-center ml-4 md:ml-0">
+            <div class="w-full max-w-[320px] md:max-w-[600px] flex flex-col gap-16 md:gap-40 items-center ml-8 md:ml-0">
               <div class="bg-gray-100 shadow-md w-full  h-[280px] rounded-xl ">
                 <div class="flex flex-col items-center justify-center gap-6 md:gap-8 mt-10 md:mt-16">
                   <img src="../assets/photos/icons/google-maps.png" alt="map" class="w-8">
                   <div class="text-center">
                    <h1>D Shop Kigali</h1>
-                   <p class="text-gray-600">8 KN 4 AVE, Kigali, Rwanda</p>
+                   <p class="text-gray-600">KN 72 St, Kigali, Rwanda</p>
                    <button class="bg-teal-700  mt-2 md:mt-4 rounded-lg text-white px-4 md:px-8 py-2"><a href="https://www.google.com/maps/@-1.9461077,30.0591942,3a,21.4y,177.77h,94.16t/data=!3m10!1e1!3m8!1svruk-dKwDJvkkVgFFAnNaw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.158099062968034%26panoid%3Dvruk-dKwDJvkkVgFFAnNaw%26yaw%3D177.77071647829928!7i16384!8i8192!9m2!1b1!2i48?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D" target="_blank">Get Directions</a></button>
                   </div>
                 </div>

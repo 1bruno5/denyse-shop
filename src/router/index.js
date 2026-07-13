@@ -19,7 +19,7 @@ const routes=[
         component: products
     },
     {
-        path:'/contact',
+        path:'/contacts',
         name: contact,
         component:contact
     },
