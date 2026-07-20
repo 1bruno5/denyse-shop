@@ -734,21 +734,72 @@
    </div>
   </div>
 
-      <div class="bg-gray-100 w-full max-w-[220px]  shadow-2xl  overflow-hidden">
-    <img src="../assets/photos/cookingPots/w (7).jpg" alt="commercila freezer" class="w-full h-[220px] object-contain bg-white">
+        <div class="bg-gray-100 w-full max-w-[220px]  shadow-2xl  overflow-hidden">
+    <img src="../assets/photos/roomWare/r (16).jpg" alt="commercila freezer" class="w-full h-[220px] object-contain bg-white">
 
     <div class="p-4 space-y-3">
-     <h3 class="font-bold text-gray-800">Cooking Pots</h3>
+     <h3 class="font-bold text-gray-800">Mosquito Net</h3>
      <p>50 000 RWF</p>
      <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
    </div>
   </div>
+
 
       <div class="bg-gray-100 w-full max-w-[220px]  shadow-2xl  overflow-hidden">
     <img src="../assets/photos/cookingPots/c.jpg" alt="commercila freezer" class="w-full h-[220px] object-contain bg-white">
 
     <div class="p-4 space-y-3">
      <h3 class="font-bold text-gray-800">Cooking Pot</h3>
+     <p>50 000 RWF</p>
+     <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
+   </div>
+  </div>
+
+        <div class="bg-gray-100 w-full max-w-[220px]  shadow-2xl  overflow-hidden">
+    <img src="../assets/photos/roomWare/r (14).jpg" alt="commercila freezer" class="w-full h-[220px] object-contain bg-white">
+
+    <div class="p-4 space-y-3">
+     <h3 class="font-bold text-gray-800">Closet</h3>
+     <p>50 000 RWF</p>
+     <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
+   </div>
+  </div>
+
+        <div class="bg-gray-100 w-full max-w-[220px]  shadow-2xl  overflow-hidden">
+    <img src="../assets/photos/roomWare/r (3).jpg" alt="commercila freezer" class="w-full h-[220px] object-contain bg-white">
+
+    <div class="p-4 space-y-3">
+     <h3 class="font-bold text-gray-800">Bed Cover</h3>
+     <p>50 000 RWF</p>
+     <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
+   </div>
+  </div>
+
+        <div class="bg-gray-100 w-full max-w-[220px]  shadow-2xl  overflow-hidden">
+    <img src="../assets/photos/roomWare/r (2).jpg" alt="commercila freezer" class="w-full h-[220px] object-contain bg-white">
+
+    <div class="p-4 space-y-3">
+     <h3 class="font-bold text-gray-800">Bed Sheets</h3>
+     <p>50 000 RWF</p>
+     <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
+   </div>
+  </div>
+
+        <div class="bg-gray-100 w-full max-w-[220px]  shadow-2xl  overflow-hidden">
+    <img src="../assets/photos/roomWare/r (19).jpg" alt="commercila freezer" class="w-full h-[220px] object-contain bg-white">
+
+    <div class="p-4 space-y-3">
+     <h3 class="font-bold text-gray-800">Bed Sheets</h3>
+     <p>50 000 RWF</p>
+     <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
+   </div>
+  </div>
+
+        <div class="bg-gray-100 w-full max-w-[220px]  shadow-2xl  overflow-hidden">
+    <img src="../assets/photos/roomWare/r (13).jpg" alt="commercila freezer" class="w-full h-[220px] object-contain bg-white">
+
+    <div class="p-4 space-y-3">
+     <h3 class="font-bold text-gray-800">Closet</h3>
      <p>50 000 RWF</p>
      <button class="bg-teal-700 px-10 py-2 text-white "><p class="text-xs lg:text-base">ADD TO CART</p></button>
    </div>
