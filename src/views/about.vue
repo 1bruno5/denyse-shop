@@ -1,6 +1,6 @@
 <template>
     <div class="font-sans">
-        <div class="flex flex-col md:flex-row px-4 lg:px-8 pt-4 md:pt-8 pb-4 md:pb-8 gap-4 md:gap-16">
+        <div class="flex flex-col md:flex-row px-4 lg:px-8 pt-4 md:pt-8 pb-4 md:pb-8 gap-4 md:gap-16 ">
             <img src="../assets/photos/about.jpg" alt="about image" class="h-[260px] md:h-[600px] w-full max-w-[500px]">
             
       <div>

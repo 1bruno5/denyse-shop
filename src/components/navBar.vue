@@ -2,7 +2,7 @@
       <nav class="bg-white p-3 shadow-xl sticky top-0 z-50 ">
    <div class="flex items-center">
     <div class="hidden md:flex">
-      <h1 class="text-black text-xl font-bold ml-2 md:ml-15"><img src="../assets/photos/logo.jpg" alt="logo" class="w-8"></h1>
+      <RouterLink to="/"><h1 class="text-black text-xl font-bold ml-2 md:ml-15"><img src="../assets/photos/logo.jpg" alt="logo" class="w-8"></h1></RouterLink>
     </div>
 
     <div class="text-black hidden md:flex flex-3 justify-center font-semibold text-xs md:text-sm gap-15">
